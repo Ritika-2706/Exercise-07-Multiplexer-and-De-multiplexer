@@ -104,24 +104,30 @@ endmodule
 ### RTL LOGIC  
 
 ### MULTIPLEXER :
-![Output](image.png)
+![image](https://github.com/Ritika-2706/Exercise-07-Multiplexer-and-De-multiplexer/assets/93427238/b8cfe307-fb04-4a49-8c41-d453a0c83785)
+
 ### DEMULTIPLEXER :
-![Output](image1.png)
+![image1](https://github.com/Ritika-2706/Exercise-07-Multiplexer-and-De-multiplexer/assets/93427238/78f7f3c8-8f20-4a4b-a6c2-133e990372cc)
+
 
 ### TIMING DIGRAMS:
 
 ### MULTIPLEXER:
-![Output](image2.png)
+![image2](https://github.com/Ritika-2706/Exercise-07-Multiplexer-and-De-multiplexer/assets/93427238/376a43f5-f8d2-4670-af15-81e3eff9eca7)
+
 
 ### DE MULTIPLEXER
-![Output](image3.png)
+![image3](https://github.com/Ritika-2706/Exercise-07-Multiplexer-and-De-multiplexer/assets/93427238/b443e86b-f8c2-4b4b-aba5-606c72bdd53d)
+
 ### TRUTH TABLE
 
 ### 4*1 MULTIPLEXER
-![Output](image4.png)
+![image4](https://github.com/Ritika-2706/Exercise-07-Multiplexer-and-De-multiplexer/assets/93427238/ae1dd7f1-b19a-4b94-bd2a-8d648f399b39)
+
 
 ### 1*4 DEMULTIPLEXER
-![Output](image5.png)
+![image5](https://github.com/Ritika-2706/Exercise-07-Multiplexer-and-De-multiplexer/assets/93427238/84f3e52b-6e45-4cf8-8e86-72a9c24cce98)
+
 
 
 
