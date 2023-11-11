@@ -47,16 +47,25 @@ If the control input changes to AB = 10, then all the gates are restricted excep
  
  
 ### Procedure
-/* write all the steps invloved */
+1.Start the module using module projname().
 
+2.Declare the inputs and outputs along with the select lines according to the multiplexer and demultiplexer.
+
+3.Use wire to assign intermediate outputs.
+
+4.Use and, or and not gates to get the desired output.
+
+5.End the module.
+
+6.Generate RTL realization and timing diagrams
 
 
 ### PROGRAM 
-/*
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Ritika S
 RegisterNumber:  212221240046
-*/
+
 ### MULTIPLEXER
 ```
 module multiplexer(I0,I1,I2,I3,S0,S1,Y);
